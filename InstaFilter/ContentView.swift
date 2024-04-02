@@ -65,10 +65,6 @@ struct ContentView: View {
 }
 
 
-
-    
-//https://www.hackingwithswift.com/books/ios-swiftui/importing-an-image-into-swiftui-using-photospicker
-
 #Preview {
     ContentView()
 }

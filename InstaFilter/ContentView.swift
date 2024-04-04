@@ -120,8 +120,6 @@ struct ContentView: View {
     
 }
 
-//https://www.hackingwithswift.com/books/ios-swiftui/basic-image-filtering-using-core-image
-
 #Preview {
     ContentView()
 }
